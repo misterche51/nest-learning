@@ -13,6 +13,10 @@
     "incremental": true,
     "skipLibCheck": true,
     "strict": true,
-    "strictPropertyInitialization": false
+    "strictPropertyInitialization": false,
+    "plugins": [
+      { "name": "typescript-tslint-plugin" }
+    ]
+    
   }
 }

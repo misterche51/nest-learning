@@ -58,8 +58,8 @@
 		"trailing-comma": false,
 		"indent": [
 			true,
-			"tabs",
-			4
+			"spaces",
+			2
 		],
 		"linterOptions": {
 			"exclude": [
